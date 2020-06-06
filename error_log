@@ -1,0 +1,17 @@
+[08-Oct-2018 11:01:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/livetestprojects/public_html/aroundme/application/controllers/Webservices.php on line 86
+[10-Oct-2018 11:14:23 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/livetestprojects/public_html/aroundme/application/controllers/Webservices.php on line 86
+[12-Oct-2018 10:11:26 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/livetestprojects/public_html/aroundme/application/controllers/Webservices.php on line 86
+[12-Oct-2018 08:34:08 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/livetestprojects/public_html/aroundme/application/views/backend/login.php on line 75
+[12-Oct-2018 08:38:57 UTC] PHP Fatal error:  Call to a member function flashdata() on null in /home/livetestprojects/public_html/aroundme/application/views/backend/login.php on line 75
+[12-Oct-2018 08:40:00 UTC] PHP Fatal error:  Call to undefined function site_url() in /home/livetestprojects/public_html/aroundme/application/views/backend/login.php on line 76
+[12-Oct-2018 09:29:46 UTC] PHP Fatal error:  Call to a member function login() on null in /home/livetestprojects/public_html/aroundme/application/controllers/Backend.php on line 52
+[12-Oct-2018 09:34:16 UTC] PHP Fatal error:  Call to a member function select() on null in /home/livetestprojects/public_html/aroundme/application/models/Back_model.php on line 245
+[12-Oct-2018 09:37:48 UTC] PHP Fatal error:  Call to a member function select() on null in /home/livetestprojects/public_html/aroundme/application/models/Back_model.php on line 245
+[12-Oct-2018 09:38:03 UTC] PHP Fatal error:  Call to a member function select() on null in /home/livetestprojects/public_html/aroundme/application/models/Back_model.php on line 249
+[12-Oct-2018 09:38:42 UTC] PHP Fatal error:  Call to a member function select() on null in /home/livetestprojects/public_html/aroundme/application/models/Back_model.php on line 249
+[12-Oct-2018 11:16:12 UTC] PHP Parse error:  syntax error, unexpected '$lat2' (T_VARIABLE) in /home/livetestprojects/public_html/aroundme/application/controllers/Webservices.php on line 118
+[12-Oct-2018 16:47:08 Asia/Kolkata] PHP Fatal error:  Call to undefined function int() in /home/livetestprojects/public_html/aroundme/application/controllers/Webservices.php on line 125
+[13-Oct-2018 08:16:55 UTC] PHP Fatal error:  Call to a member function approve_user() on null in /home/livetestprojects/public_html/aroundme/application/controllers/Backend.php on line 90
+[13-Oct-2018 09:43:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/livetestprojects/public_html/aroundme/application/views/backend/edit-category.php on line 13
+[13-Oct-2018 10:29:40 UTC] PHP Fatal error:  Call to a member function update_category() on null in /home/livetestprojects/public_html/aroundme/application/controllers/Backend.php on line 88
+[13-Oct-2018 11:26:42 UTC] PHP Fatal error:  Maximum execution time of 3000 seconds exceeded in /home/livetestprojects/public_html/aroundme/system/libraries/Session/drivers/Session_files_driver.php on line 212
